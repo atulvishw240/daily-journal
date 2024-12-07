@@ -14,3 +14,4 @@ Pure function : always returns the same output for the same input.
 
 >[!question] How using a prime number reduces collision?
 
+>Joshua Bloch Effective Java book is too good
